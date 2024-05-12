@@ -32,11 +32,15 @@
 
 ## Input:
 
+## Input:
+![input image](https://github.com/Henriprasath/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979077/56bb9b96-d507-4c72-b292-59c455d6e36d)
+
 ### Output:
+![Screenshot_stopper](https://github.com/Henriprasath/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979077/10b0668b-941a-44ca-b340-072fbc78ad7b)
 
 
-### Name:
-### Register Number:
+### Name: A.BHAGATHKRISHNA
+### Register Number: 212223230029
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
